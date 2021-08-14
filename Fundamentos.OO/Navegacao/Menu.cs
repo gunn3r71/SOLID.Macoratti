@@ -2,13 +2,15 @@ using System;
 using System.Collections.Generic;
 using Fundamentos.OO.Aulas;
 using Fundamentos.OO.Aulas.AulaClasses;
+using Fundamentos.OO.Aulas.AulaThis;
 
 namespace Fundamentos.OO.Navegacao
 {
     public static class Menu
     {
         private static Dictionary<int, AulaAbstract> _aulas = new Dictionary<int, AulaAbstract>{
-            {1, new ClassesObjetos()}
+            {1, new ClassesObjetos()},
+            {2, new InstanciaThis()}
         };
 
         public static void ExibirOpcoes()
