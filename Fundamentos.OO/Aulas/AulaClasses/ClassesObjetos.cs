@@ -12,10 +12,10 @@ namespace Fundamentos.OO.Aulas.AulaClasses
         
         public override void InicializarExemplo()
         {
-            Console.Write("Olá, por favor, digite seu nome: ");
-            var nome = Console.ReadLine();
+            Console.Write("Olá, por favor, digite seu nome e sobrenome: ");
+            var nomeCompleto = Console.ReadLine().Split(" ");
 
-            var pessoa = new Pessoa(nome: nome);
+            var pessoa = new Pessoa(nome: nomeCompleto[0], sobrenome: nomeCompleto[1]);
 
             Console.WriteLine(pessoa);
         }
