@@ -1,0 +1,16 @@
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\bin\Debug\net5.0\Fundamentos.OO.exe
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\bin\Debug\net5.0\Fundamentos.OO.deps.json
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\bin\Debug\net5.0\Fundamentos.OO.runtimeconfig.json
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\bin\Debug\net5.0\Fundamentos.OO.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\bin\Debug\net5.0\Fundamentos.OO.dll
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\bin\Debug\net5.0\ref\Fundamentos.OO.dll
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\bin\Debug\net5.0\Fundamentos.OO.pdb
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\obj\Debug\net5.0\Fundamentos.OO.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\obj\Debug\net5.0\Fundamentos.OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\obj\Debug\net5.0\Fundamentos.OO.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\obj\Debug\net5.0\Fundamentos.OO.AssemblyInfo.cs
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\obj\Debug\net5.0\Fundamentos.OO.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\obj\Debug\net5.0\Fundamentos.OO.dll
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\obj\Debug\net5.0\ref\Fundamentos.OO.dll
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\obj\Debug\net5.0\Fundamentos.OO.pdb
+C:\Users\lucas\source\repos\SOLID.Macoratti\Fundamentos.OO\obj\Debug\net5.0\Fundamentos.OO.genruntimeconfig.cache
